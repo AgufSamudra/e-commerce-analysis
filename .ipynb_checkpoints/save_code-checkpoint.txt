@@ -1,0 +1,11 @@
+# # change name of zip code in geolication table
+# geolocation_df.rename(columns={"geolocation_zip_code_prefix": "customer_zip_code_prefix"}, inplace=True)
+
+# # merge all of table to one table
+# df = pd.merge(orders_df, orders_payments_df, on="order_id")
+# df = pd.merge(df, orders_customers_df, on="customer_id")
+# df = pd.merge(df, orders_items_df, on="order_id")
+# df = pd.merge(df, products_df, on="product_id")
+# df = pd.merge(df, geolocation_df, on="customer_zip_code_prefix")
+
+# df.head(2)
