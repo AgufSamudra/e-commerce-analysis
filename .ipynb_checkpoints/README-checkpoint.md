@@ -4,9 +4,7 @@ Brazilian E-Commerce Analysis with python, from [Kaggle](https://www.kaggle.com/
 
 ## How to run in App Dashboard Analysis
 
-```
-this link streamlit
-```
+[Streamlit App](https://ecommerce-dashboard-brazilian.streamlit.app/)
 
 ## How to run in Locally
 
@@ -41,7 +39,7 @@ stremlit run dashboard.py
 
 Follow those guide for running in locally your computer. After your Successful would be like this:
 
-![Dashboard]()
+![Dashboard](https://raw.githubusercontent.com/AgufSamudra/e-commerce-analysis/main/image/dasboard.png)
 
 
 
