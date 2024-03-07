@@ -21,7 +21,7 @@ source [name_of_your_enviroment]/bin/activate
 
 pip3 install -r requirements.txt
 
-stremlit run dashboard.py
+streamlit run dashboard.py
 ```
 
 and then if your users of `Windows` you can follow this guide:
@@ -33,7 +33,7 @@ python -m venv [name_of_your_enviroment]
 
 pip install -r requirements.txt
 
-stremlit run dashboard.py
+streamlit run dashboard.py
 ```
 
 
