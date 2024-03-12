@@ -37,11 +37,6 @@ streamlit run dashboard.py
 ```
 
 
-Follow those guide for running in locally your computer. After your Successful would be like this:
-
-![Dashboard](https://raw.githubusercontent.com/AgufSamudra/e-commerce-analysis/main/image/dasboard.png)
-
-
 
 
 
